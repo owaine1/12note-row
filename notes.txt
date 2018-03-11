@@ -1,0 +1,11 @@
+Intention is to have:
+1 a 12 not row generator: accomplished, via Bostock code.
+2 a comparison calculator that calculates the uniqueness  of the note row. Comparisons are of the array: a similar interval next to itself (convert all of array to numbers)
+Also perponderance of same interval of all neighbours. Need for loop. Think near neighbour and same interval is less unique.
+Is there a modal where there are no unique intervals? What is it?
+Above needs to be your model.
+
+Thoughts are sequentially going through intervals— 
+i.e. loop (within loop). Seems more complex.
+
+Revise code. Make more self-referencing code.
