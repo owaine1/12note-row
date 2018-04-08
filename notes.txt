@@ -9,3 +9,5 @@ Thoughts are sequentially going through intervals—
 i.e. loop (within loop). Seems more complex.
 
 Revise code. Make more self-referencing code.
+
+Add magic square (O,R, I, RI)
